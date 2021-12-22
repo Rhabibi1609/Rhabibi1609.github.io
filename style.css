@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+#bg{
+  background-color:#ADD8E6;
+  text-align:center;
+  color:blue;
+}
+
+#zen{
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size:30pt;
+  text-decoration:underline;
+  color:purple;
+}
+canvas{
+  height: 400px;
+  width:600px;
+  border: 1px solid blue;
+  margin: 10pt;
+}
